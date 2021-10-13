@@ -1,5 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dabby9734&theme=vue-dark&show_icons=true&count_private=true" />
+![Overall stats](https://github-readme-stats.vercel.app/api?username=dabby9734&theme=vue-dark&show_icons=true&count_private=true)
 <!-- </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dabby9734">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabby9734" />
